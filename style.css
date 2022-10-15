@@ -1,0 +1,20 @@
+
+
+.checked {
+    color: orange;
+  }
+
+  .table, th, td {
+    border:1px solid black;
+  }
+
+  .radio-label {
+    float: right;
+    margin-right: 3%;
+}
+.radio-input {
+    float: right;
+}
+fieldset {
+  text-align: center;
+}
